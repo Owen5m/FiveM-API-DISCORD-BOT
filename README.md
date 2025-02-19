@@ -113,6 +113,7 @@ Installation :
 ## npm install
 
 Configurez vos variables d’environnement ou modifiez directement le fichier de configuration avec vos informations spécifiques.
+
 Démarrez le bot avec la commande :
 
 ## node index.js
