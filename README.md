@@ -1,4 +1,4 @@
-Documentation du Bot Discord pour Atlas
+Documentation du Bot Discord développer par cookiessnotfound
 
 Ce bot a été conçu pour faciliter la gestion et la modération de votre serveur Discord. Il intègre de nombreuses fonctionnalités, allant de la gestion des tickets de support aux commandes de modération, en passant par la validation d’achats et la gestion d’événements spécifiques.
 Table des Matières
